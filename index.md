@@ -1,8 +1,6 @@
 
 
 <p> yo welcome to my website </p>
-<p> nothing much happens around here </p>
-<p> my project for the 7th grade year. Goal: unblock all games </p>
 <input type="button" onclick="location.href='https://gamedevccj.github.io/Cookie-Clicker-Source-Code';" value="Go to Cookie Clicker" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/retro--bowl/';" value="Go to retro bowl" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/DogeMiner/';" value="Go to Doge Miner" />
@@ -30,6 +28,11 @@
 <input type="button" onclick="location.href='https://pisaucer.github.io/boredhtml/';" value="Bred at school" />
 <input type="button" onclick="location.href='https://website-aio.herokuapp.com/';" value="Holy unblocker DEVELOPER EDITION " />
 <input type="button" onclick="location.href='https://redben1002.github.io/Hide-this/';" value="Incognito " />
+<input type="button" onclick="location.href='https://priler.github.io/dino3d/';" value="Chrome dino game: 3D" />
+<input type="button" onclick="location.href='https://ruffle.rs/demo/';" value="swf (flash game) loader" />
+<input type="button" onclick="location.href='https://gamedevccj.github.io/gfiles/gfiles/html5/asciispace/';" value="ASCII Space" />
+<input type="button" onclick="location.href='https://gamedevccj.github.io/gfiles/gfiles/html5/hextris/';" value="Hextris" />
+<input type="button" onclick="location.href='https://gamedevccj.github.io/gfiles/gfiles/html5/geometrydash/';" value="Geometry Dash SCRATCH" />
 
 <h1> BOOKMARKLETS </h1>
 <p><a href="javascript:(function()%7Bjavascript%3Avar%20DELAY%20%3D%201%3Bvar%20autoClickerStyleElement%20%3D%20document.createElement(%22style%22)%3BautoClickerStyleElement.innerHTML%3D%22*%7Bcursor%3A%20crosshair%20!important%3B%7D%22%3Bdocument.body.appendChild(autoClickerStyleElement)%3Bfunction%20addClicker(e)%20%7Bif(!e.isTrusted)%20%7Breturn%3B%7Dif(e.target.classList.contains(%22auto-clicker-target%22))%20%7Be.target.classList.remove(%22auto-clicker-target%22)%3B%7D%20else%20%7Be.target.classList.add(%22auto-clicker-target%22)%3B%7Ddocument.body.removeChild(autoClickerStyleElement)%3Bdocument.body.removeEventListener(%22click%22%2C%20addClicker)%3Be.preventDefault()%3BautoClick(e.target)%3B%7Dfunction%20autoClick(element)%20%7Bif(element.classList.contains(%22auto-clicker-target%22))%20%7Belement.click()%3BsetTimeout(function()%7B%20autoClick(element)%3B%20%7D%2C%20DELAY)%3B%7D%7Ddocument.body.addEventListener(%22click%22%2C%20addClicker%2C%200)%3B%7D)()%3B">Auto Clicker</a></p>
