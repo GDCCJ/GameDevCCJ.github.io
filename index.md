@@ -1,6 +1,8 @@
 
 
-<p> yo welcome to my website </p>
+<p> yo welcome to my website </p>                <A HREF="pages/log.html">Changelog</A>
+
+                                                                                   
 <input type="button" onclick="location.href='https://gamedevccj.github.io/Cookie-Clicker-Source-Code';" value="Go to Cookie Clicker" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/retro--bowl/';" value="Go to retro bowl" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/DogeMiner/';" value="Go to Doge Miner" />
@@ -38,8 +40,10 @@
 <input type="button" onclick="location.href='https://spew45.github.io/eazy-games/games/slope.html';" value="Slope" />
 <input type="button" onclick="location.href='https://spew45.github.io/eazy-games/games/drift-boss.html';" value="Drift Boss" />
 <input type="button" onclick="location.href='https://generalmathematics.net/';" value="GeneralMathematics (VERY RARE LINK)" />
+<input type="button" onclick="location.href='https://omega640000.github.io/';" value="Pringles by omega" />
 
 <h1> BOOKMARKLETS </h1>
 <p><a href="javascript:(function()%7Bjavascript%3Avar%20DELAY%20%3D%201%3Bvar%20autoClickerStyleElement%20%3D%20document.createElement(%22style%22)%3BautoClickerStyleElement.innerHTML%3D%22*%7Bcursor%3A%20crosshair%20!important%3B%7D%22%3Bdocument.body.appendChild(autoClickerStyleElement)%3Bfunction%20addClicker(e)%20%7Bif(!e.isTrusted)%20%7Breturn%3B%7Dif(e.target.classList.contains(%22auto-clicker-target%22))%20%7Be.target.classList.remove(%22auto-clicker-target%22)%3B%7D%20else%20%7Be.target.classList.add(%22auto-clicker-target%22)%3B%7Ddocument.body.removeChild(autoClickerStyleElement)%3Bdocument.body.removeEventListener(%22click%22%2C%20addClicker)%3Be.preventDefault()%3BautoClick(e.target)%3B%7Dfunction%20autoClick(element)%20%7Bif(element.classList.contains(%22auto-clicker-target%22))%20%7Belement.click()%3BsetTimeout(function()%7B%20autoClick(element)%3B%20%7D%2C%20DELAY)%3B%7D%7Ddocument.body.addEventListener(%22click%22%2C%20addClicker%2C%200)%3B%7D)()%3B">Auto Clicker</a></p>
 <p><a href="javascript:(function()%7Bjavascript%3A(function()%7Bvar%20a%3Ddocument.createElement(%22script%22)%3Ba.src%3D%22https%3A%2F%2Fx-ray-goggles.mouse.org%2Fwebxray.js%22%3Ba.className%3D%22webxray%22%3Ba.setAttribute(%22data-lang%22%2C%22en-US%22)%3Ba.setAttribute(%22data-baseuri%22%2C%22https%3A%2F%2Fx-ray-goggles.mouse.org%22)%3Bdocument.body.appendChild(a)%3B%7D())%3B%7D)()%3B">Inspect element/ xRay</a></p>
 <p><a href="javascript:var s=document.createElement('script');s.type='text/javascript';s.src='https://sheeptester.github.io/javascripts/eval.js';document.body.appendChild(s);void(0);">eval.js</a></p>
+<p><a href="function gcloak() { var link = document.querySelector("link[rel*='icon']") || document.createElement('link');link.type = 'image/x-icon';link.rel = 'shortcut icon';link.href = 'https://www.palomar.edu/atrc/wp-content/uploads/sites/3/2017/01/Canvas-Logo.png';document.title = 'Dashboard';console.log(document.title);document.getElementsByTagName('head')[0].appendChild(link) };gcloak();setInterval(gcloak, 1000);">Tab cloaker</a></p>
