@@ -1,11 +1,11 @@
 
 
-<p> yo welcome to my website </p>               <form action="log.html" class="inline">
-    <button class="float-left submit-button" >Changelod</button>
+<p> yo welcome to my website </p>               
+ <form action="log.html" class="inline">
+    <button class="float-left submit-button" >Changelog</button>
 </form>
 
-
-                                                                                   
+                                                                                  
 <input type="button" onclick="location.href='https://gamedevccj.github.io/Cookie-Clicker-Source-Code';" value="Go to Cookie Clicker" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/retro--bowl/';" value="Go to retro bowl" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/DogeMiner/';" value="Go to Doge Miner" />
