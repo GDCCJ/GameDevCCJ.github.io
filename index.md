@@ -1,6 +1,9 @@
 
 
-<p> yo welcome to my website </p>               
+<p> yo welcome to my website </p>               <form action="log.html" class="inline">
+    <button class="float-left submit-button" >Changelod</button>
+</form>
+
 
                                                                                    
 <input type="button" onclick="location.href='https://gamedevccj.github.io/Cookie-Clicker-Source-Code';" value="Go to Cookie Clicker" />
