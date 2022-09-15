@@ -1,6 +1,6 @@
 
 
-<p> yo welcome to my website </p>                <A HREF="pages/log.html">Changelog</A>
+<p> yo welcome to my website </p>                <a href="pages/log.html">Changelog</a>
 
                                                                                    
 <input type="button" onclick="location.href='https://gamedevccj.github.io/Cookie-Clicker-Source-Code';" value="Go to Cookie Clicker" />
