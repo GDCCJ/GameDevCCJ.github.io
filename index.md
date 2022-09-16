@@ -4,7 +4,7 @@
  <form action="log.html" class="inline">
     <button class="float-left submit-button" >Changelog</button>
 </form>
-
+<p> DISCLAIMER: dont blame me when you get in trouble for gaming in class! </p>
                                                                                   
 <input type="button" onclick="location.href='https://gamedevccj.github.io/Cookie-Clicker-Source-Code';" value="Go to Cookie Clicker" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/retro--bowl/';" value="Go to retro bowl" />
