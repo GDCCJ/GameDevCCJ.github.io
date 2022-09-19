@@ -2,17 +2,7 @@
 <body>
 
 <p> yo welcome to my website </p> 
-     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5234855808554952"
-     crossorigin="anonymous"></script>
-<!-- E -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5234855808554952"
-     data-ad-slot="2844724682"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+     
 </script>
  <form action="log.html" class="inline">
     <button class="float-left submit-button" >Changelog</button>
