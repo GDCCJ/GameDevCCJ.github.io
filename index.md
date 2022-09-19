@@ -17,10 +17,6 @@
  <form action="log.html" class="inline">
     <button class="float-left submit-button" >Changelog</button>
 </form>
-         
- 
- 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
