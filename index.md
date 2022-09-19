@@ -1,7 +1,8 @@
 
 <body>
 
- 
+ <p><a href="gamedevccj.github.io/disclaimer.html">disclaimer</a></p>
+  <p><a href="gamedevccj.github.io/faq.html">FAQ</a></p>
 <p> yo welcome to my website </p>               
  <form action="log.html" class="inline">
     <button class="float-left submit-button" >Changelog</button>
