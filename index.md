@@ -80,7 +80,7 @@
 
 
 
-<a href="Gamedevccj.github.io/games.html" class="button button5">Games</a>
+<a href="games.html" class="button button5">Games</a>
 
 
 </body>
