@@ -1,8 +1,6 @@
 <head>
 <body>
-html, body {
-     min-height: 100%;
-}
+
 <p> yo welcome to my website </p> 
      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5234855808554952"
      crossorigin="anonymous"></script>
