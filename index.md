@@ -1,6 +1,8 @@
 <head>
 <body>
-
+html, body {
+     min-height: 100%;
+}
 <p> yo welcome to my website </p>               
  <form action="log.html" class="inline">
     <button class="float-left submit-button" >Changelog</button>
