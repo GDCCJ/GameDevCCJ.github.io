@@ -5,7 +5,7 @@
     <button class="float-left submit-button" >Changelog</button>
 </form>
 <p> DISCLAIMER: dont blame me when you get in trouble for gaming in class! </p>
-                                                                                  
+       <h3></h3><!-- Start BawkBox Code--><script data-sil-id="63286cf5cac98e0013e249cb">var loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == "file:" ? "http://" : "//"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName("script"); e=e[e.length-1]; var n = d.createElement(t); if (t=="script") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m("script", { src: p + "bawkbox.com/widget/chatroom/63286cf5cac98e0013e249cb?page=" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); setTimeOut(function(){ document.addEventListener('DOMContentLoaded', loadWidget); }, 3000) } else { loadWidget() } </script><div class="sil-widget-chatroom sil-widget" id="sil-widget-63286cf5cac98e0013e249cb"><a href="//bawkbox.com/install/chatroom">Public Chatroom</a></div><!-- End BawkBox Code-->                                                                           
 <input type="button" onclick="location.href='https://gamedevccj.github.io/Cookie-Clicker-Source-Code';" value="Go to Cookie Clicker" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/retro--bowl/';" value="Go to retro bowl" />
 <input type="button" onclick="location.href='https://gamedevccj.github.io/DogeMiner/';" value="Go to Doge Miner" />
