@@ -3,10 +3,8 @@
 
 <p> yo welcome to my website </p> 
      
-</script>
- <form action="log.html" class="inline">
-    <button class="float-left submit-button" >Changelog</button>
-</form>
+
+
 <html>
 <head>
 <style>
