@@ -4,9 +4,6 @@
 <a href="games.html" class="button button5">Games</a> <a href="log.html" class="button button5">Log</a> <a href="Chatroom.html" class="button button5">Chatroom</a>
 
 
-</body>
-</html>
-
 
  <h1><a href="https://gamedevccj.github.io/James4/Chatroom.html">CHATROOOM</a></h1>
 <h2> BOOKMARKLETS </h2>
