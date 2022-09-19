@@ -1,4 +1,4 @@
-
+<head>
 <body>
 
 <p> yo welcome to my website </p>               
@@ -53,4 +53,8 @@
 <p><a href="javascript:var s=document.createElement('script');s.type='text/javascript';s.src='https://sheeptester.github.io/javascripts/eval.js';document.body.appendChild(s);void(0);">eval.js</a></p>
  <p><a href="https://gamedevccj.github.io/James4/Chatroom.html">CHATROOOM</a></p>
 <h3></h3><!-- Start BawkBox Code--><script data-sil-id="6328799dcac98e0013e24d55">var loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == "file:" ? "http://" : "//"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName("script"); e=e[e.length-1]; var n = d.createElement(t); if (t=="script") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m("script", { src: p + "bawkbox.com/widget/feedback/6328799dcac98e0013e24d55?page=" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); setTimeOut(function(){ document.addEventListener('DOMContentLoaded', loadWidget); }, 3000) } else { loadWidget() } </script><div class="sil-widget-feedback sil-widget" id="sil-widget-6328799dcac98e0013e24d55"><a href="//bawkbox.com/install/feedback"></a></div><!-- End BawkBox Code-->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5234855808554952"
+     crossorigin="anonymous"></script>
 </body>
+
+</head>
