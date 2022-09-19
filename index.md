@@ -80,7 +80,7 @@
 
 
 
-<a href="games.html" class="button button5">Games</a>
+<a href="games.html" class="button button5">Games</a> <a href="log.html" class="button button5">Log</a>
 
 
 </body>
