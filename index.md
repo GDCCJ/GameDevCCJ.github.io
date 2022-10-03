@@ -1,5 +1,5 @@
 
-
+<body>
 <head>
  <meta name="a.validate.02" content="xVsAVoRjbEkzr9ZvPaTE-SMMr2zBOTeMrCHt" />
 <a href="games.html" class="button button5">Games</a> <a href="log.html" class="button button5">Log</a> <a href="Chatroom.html" class="button button5">Chatroom</a>
@@ -93,7 +93,8 @@
 }
 </style>
 </head>
+ <script data-cfasync="false" type="text/javascript" data-adel="atag" src="//ashcdn.com/script/atg.js" czid="l6hjsqvcc"></script>
 <body>
-<head>
+</head>
 
 </head>
