@@ -1,6 +1,7 @@
 
 
-
+<head>
+ <meta name="a.validate.02" content="xVsAVoRjbEkzr9ZvPaTE-SMMr2zBOTeMrCHt" />
 <a href="games.html" class="button button5">Games</a> <a href="log.html" class="button button5">Log</a> <a href="Chatroom.html" class="button button5">Chatroom</a>
 
 
@@ -93,6 +94,6 @@
 </style>
 </head>
 <body>
-
+<head>
 
 </head>
